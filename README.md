@@ -1,4 +1,5 @@
-#### bible-nlp
+## The Bible Natural Language Processing Project
+by Jeremy Steele and Jared Reser
 
 <p> This project examines two different bible translation; <i> The King James Version </i> and <i> American Standard </i>. </p>
 <p> We will run the two translations through a python Natural Language Processor's sentiment analysis. </p>
