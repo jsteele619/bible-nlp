@@ -1,5 +1,5 @@
 ## The Bible Natural Language Processing Project
-by Jeremy Steele and Jared Reser
+by Jeremy Steele
 
 <p> This project examines seven different bible translations.</p>
 <p> We ran a sentiment analyzer using the TextBlob python library on every chapter in every version of the bible. </p>
